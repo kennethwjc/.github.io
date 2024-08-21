@@ -1,27 +1,40 @@
-Welcome to my cybersecurity portfolio! This repository showcases my journey, projects, and skills in the field of cybersecurity. 
+<h1>Hi, I'm Kenneth! <br/>
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
-🔥 About Me
-I am passionate about cybersecurity and have spent over a year honing my skills through hands-on projects and continuous learning.
+- <b>Network Mapping and OSINT</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>PowerShell</b>
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+- <b>C# (.NET Desktop Applications)</b>
+  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
+  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+- <b>Python</b>
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-📁 Project Highlights
-1. Network Vulnerability Assessment and Mitigation
-Tools Used: Nmap, Masscan, Searchsploit
-Description: Mapped my home network, identified vulnerabilities, and proposed mitigation strategies to enhance security.
-2. Brute Force Attack Simulation
-Tools Used: Hydra
-Description: Simulated brute force attacks on various services (FTP, SSH, Telnet, RDP) to understand the impact and strengthen defenses.
-3. OSINT Investigation
-Tools Used: LeekPeek, Google Dorks, WHOIS
-Description: Conducted in-depth OSINT investigations to uncover publicly available information and assess potential risks.
-4. Automated Cybersecurity Toolkit
-Tools Used: Python, Bash scripting
-Description: Developed a script that automates network scanning, brute force attacks, and vulnerability checks with user input for customization.
+<h2> 🤳 Connect with me:</h2>
 
-🏆 Certifications
-Comptia Sec+
-Splunk Core Certified User
 
-📫 Contact
-Feel free to reach out to me for collaboration, questions, or any cybersecurity discussions!
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-Email: kennethjc.wong@gmail.com
+[instagram]: https://www.instagram.com/kennethwjc/
+[linkedin]: https://linkedin.com/in/kennethjcwong/
+
+<!--
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
