@@ -13,6 +13,12 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>Vulnerability Scanner (Bash Script)</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+ 
+<h2>🏆 Certifications</h2>
+<ul>
+  <li><b>Splunk Core Certified User</b></li>
+  <li><b>CompTIA Security+ (SY0-701)</b></li>
+</ul>
 <h2> 🤳 Connect with me:</h2>
 
 
