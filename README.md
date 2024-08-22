@@ -4,7 +4,7 @@
 - <b>Network Mapping and OSINT</b>
   - [Project Net Crafts](https://github.com/kennethwjc/Net-Crafts)
 - <b>Information Extractor (Bash Script)</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Project Info Extractor](https://github.com/kennethwjc/Info-Extractor)
 - <b>Network Remote Control (Bash Script)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
